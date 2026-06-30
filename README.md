@@ -5,10 +5,6 @@
   Java Backend Developer · Flutter App Developer · AI Enthusiast
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=mahesh-lute-9&style=for-the-badge&color=0e75b6" alt="Profile Views" />
-</p>
-
 ---
 
 ### About Me
