@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Mahesh Lute 👋</h1>
+<h1 align="center">Hi, I'm Mahesh 👋</h1>
 
 <p align="center">
   Computer Science Student · Pune, India<br/>
