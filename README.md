@@ -16,30 +16,35 @@ Computer Science Student · Pune, India
 
 ### About Me
 
-*"Curiosity is my favorite kind of love."*
-
-🎯 Focused on **Java backend engineering** with Spring Boot & REST APIs<br/>
-📱 Building cross-platform apps with **Flutter** and integrating AI with **LLM APIs**<br/>
-🏗️ Experienced in full-stack development — Flask, PostgreSQL, Firebase<br/>
-📈 Actively strengthening **DSA** and core CS fundamentals<br/>
-🤝 Open to **SDE & Backend Developer internship** opportunities
+💻 CS student at SPPU, Pune — I ship production Flutter apps and build backend systems with Java<br/>
+🚀 6 months of hands-on experience as a Mobile App Dev Intern, shipping cross-platform apps end-to-end<br/>
+🌱 Active open-source contributor (GSSoC) — collaborating on real codebases, not just tutorials<br/>
+🏗️ Backend focus: Java, Spring Boot, REST APIs, PostgreSQL — with Flutter/Dart on the mobile side<br/>
+📈 Currently deep in DSA and core CS fundamentals<br/>
+🤝 Open to **SDE, Full-Stack & Backend Developer** internship opportunities
 
 ---
 
-### 🧠 Languages
+### 💼 Experience
+
+**Software Developer Intern** — Incubators Systems Pvt. Ltd. · *6 months*
+Mobile Application Development (Flutter)
+
+- Developed and maintained cross-platform Flutter mobile applications using Dart, Firebase Auth, and Firestore
+- Integrated REST APIs and third-party services; performed testing, debugging, and UI/UX refinements across the product lifecycle
+- Contributed to Agile sprint planning, project documentation, and collaborative feature delivery with the core development team
+
+---
+
+### 🧠 Languages & Markup
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=sqlite&logoColor=white)
-
-### 🌐 Web Technology
-
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![REST APIs](https://img.shields.io/badge/REST_APIs-0175C2?style=for-the-badge)
 
 ### ⚙️ Frameworks & Tools
 
@@ -78,8 +83,6 @@ Computer Science Student · Pune, India
 ### 🔄 DevOps
 
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
 ### 🧪 Testing
 
@@ -117,15 +120,6 @@ Computer Science Student · Pune, India
 
 ---
 
-### 💫 Right Now
-
-🏗️ Strengthening my **Java backend** fundamentals — Spring Boot, REST APIs, JVM internals<br/>
-📱 Building **mobile app projects** with Flutter<br/>
-📚 Working through **core CS fundamentals**<br/>
-🧮 About to start a focused **DSA** grind
-
----
-
 ### 🤝 Let's Connect
 
 <a href="https://www.linkedin.com/in/mahesh-lute" target="_blank">
@@ -137,6 +131,8 @@ Computer Science Student · Pune, India
 <a href="https://github.com/mahesh-lute-9" target="_blank">
   <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
 </a>
+
+<sub>404: Perfection not found — but I keep pushing commits. — Mahesh Lute</sub>
 
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:0175C2,100:6DB33F&height=100&section=footer)
 
