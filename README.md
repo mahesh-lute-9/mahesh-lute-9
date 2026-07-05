@@ -14,28 +14,6 @@ Computer Science Student · Pune, India
 
 ---
 
-### About Me
-
-💻 CS student at SPPU, Pune — I ship production Flutter apps and build backend systems with Java<br/>
-🚀 6 months of hands-on experience as a Mobile App Dev Intern, shipping cross-platform apps end-to-end<br/>
-🌱 Active open-source contributor (GSSoC) — collaborating on real codebases, not just tutorials<br/>
-🏗️ Backend focus: Java, Spring Boot, REST APIs, PostgreSQL — with Flutter/Dart on the mobile side<br/>
-📈 Currently deep in DSA and core CS fundamentals<br/>
-🤝 Open to **SDE, Full-Stack & Backend Developer** internship opportunities
-
----
-
-### 💼 Experience
-
-**Software Developer Intern** — Incubators Systems Pvt. Ltd. · *6 months*
-Mobile Application Development (Flutter)
-
-- Developed and maintained cross-platform Flutter mobile applications using Dart, Firebase Auth, and Firestore
-- Integrated REST APIs and third-party services; performed testing, debugging, and UI/UX refinements across the product lifecycle
-- Contributed to Agile sprint planning, project documentation, and collaborative feature delivery with the core development team
-
----
-
 ### 🧠 Languages & Markup
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
