@@ -98,7 +98,7 @@ Computer Science Student · Pune, India
 
 ---
 
-### 🤝 Let's Connect
+### Let's Connect 🤝
 
 <a href="https://www.linkedin.com/in/mahesh-lute" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
@@ -110,7 +110,7 @@ Computer Science Student · Pune, India
   <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
-<sub>404: Perfection not found — but I keep pushing commits. — Mahesh Lute</sub>
+<sub>404: Perfection not found — but I keep pushing commits ⚡. — Mahesh Lute</sub>
 
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:0175C2,100:6DB33F&height=100&section=footer)
 
