@@ -81,15 +81,6 @@ Computer Science Student · Pune, India
 
 ### GitHub Stats
 
-<img src="https://github-readme-stats.vercel.app/api?username=mahesh-lute-9&show_icons=true&theme=tokyonight&hide_border=true" height="165" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahesh-lute-9&layout=compact&theme=tokyonight&hide_border=true" height="165" />
-
-<img src="https://streak-stats.demolab.com?user=mahesh-lute-9&theme=tokyonight&hide_border=true" />
-
-<img src="https://github-profile-trophy.vercel.app/?username=mahesh-lute-9&theme=tokyonight&no-frame=true&row=1&column=6" />
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=mahesh-lute-9&theme=tokyo-night&hide_border=true&area=true" width="90%" />
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mahesh-lute-9/mahesh-lute-9/output/github-contribution-grid-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mahesh-lute-9/mahesh-lute-9/output/github-contribution-grid-snake.svg" />
